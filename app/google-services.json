@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "603827074961",
+    "firebase_url": "https://aplikasifirebase-d26c3.firebaseio.com",
+    "project_id": "aplikasifirebase-d26c3",
+    "storage_bucket": "aplikasifirebase-d26c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603827074961:android:482703fc030aab4e000c30",
+        "android_client_info": {
+          "package_name": "com.example.kalkukatorfirebase10225"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603827074961-71dneucmnnf059grs882ke2hpmg2sqd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kalkukatorfirebase10225",
+            "certificate_hash": "73d77bb60a83cfe2a634b8aef10b2d59372cff94"
+          }
+        },
+        {
+          "client_id": "603827074961-0f59orq8dgv8o7as84osiqt0arvre3j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzUoSDmKQBCjntiPZJHwDbBYxhLaWA8mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603827074961-0f59orq8dgv8o7as84osiqt0arvre3j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
